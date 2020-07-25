@@ -1,6 +1,6 @@
 # Demo content for Matthew
 
-This is a sample data (demo content) for the Matthew theme. Note, it does not include pages that are created automatically by WooCommerce in order to avoid dublocations.
+This is a sample data (demo content) for the Matthew theme. Note, it does not include pages that are created automatically by WooCommerce in order to avoid duplication of some pages on your site.
 
 ## Installation
 
